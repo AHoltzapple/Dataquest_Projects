@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-### This code removes posts with 0 comments then samples 20,000 for analysis###
+### This script removes posts with 0 comments then samples 20,000 for analysis###
 
 ### Import source data file
 import csv
